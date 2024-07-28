@@ -1,3 +1,8 @@
+# Ignore __MACOSX folder
 __MACOSX/
+
+# Ignore all .dat files
 *.dat
-.idea
+
+# Ignore .idea folder (used by JetBrains IDEs)
+.idea/
